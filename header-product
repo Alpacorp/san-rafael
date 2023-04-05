@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body style="margin: 0">
+  <section style="background-color: #780117;">
+    <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; padding: 20px;">
+      <div>
+        <figure>
+          <img src="https://sanrafaeldeli.com/wp-content/uploads/2020/04/logo_SR.png" alt="San Rafael Logo" width="100"
+            height="auto" style="aspect-ratio: 16/9; width: 100%; max-width: 150px;">
+        </figure>
+      </div>
+      <div style="font-size: 20px; text-transform: uppercase;">
+        <div style="display: flex; align-items: baseline;">
+          <h1 style="margin: 0; padding: 0; padding-right: 5px; color: #fff;">Jamón Pavo Real</h1>
+          <h3 style="margin: 0; padding: 0; color: #fff;">(Rebanadas)</h3>
+        </div>
+        <div style="text-align: right;">
+          <h4 style="margin: 0; padding: 0; color: #fff;">250 g</h4>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>
